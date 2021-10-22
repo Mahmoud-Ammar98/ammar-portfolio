@@ -1,0 +1,57 @@
+.aside .logo a::before
+        {
+            border-top:4px solid #2196f3;
+            border-left:4px solid  #2196f3;
+        }
+.aside .logo a::after
+        {
+            border-bottom:4px solid  #2196f3;;
+            border-right:4px solid  #2196f3;;
+        }
+.aside .navbar i:hover,
+.aside .navbar .active i,
+.portfolio-section .row .portfolio-filter button:hover,
+.portfolio-section .row .portfolio-filter button.active,
+.contact-item .inner-contact p,
+.blog-section .blog-container .inner-blog 
+.blog-content .tages span,
+.service-section .service-con .service-container .service-content div i,
+.about-head .about-line span,
+aside .navbar i:hover,
+.aside .logo span,
+body.dark .aside .navbar span:hover
+
+        {
+            color: #2196f3;;
+        }
+.portfolio-section .row .portfolio-filter button.active
+    {
+        border-color: #2196f3;;
+    }
+.information .education .my-education .row p:before,
+.my-education:before,
+.home .fa,       
+.info .my-info .btn,
+.blog-head h2:before,
+.info .progress .my-progress .three,
+.service-section .service-con .service-container:hover .service-content div i,
+.contact-item .inner-contact:hover p,
+.blog-section .blog-container .inner-blog
+ .date h6,
+ .portfolio-item:hover .portfolio-info .search,
+.contact-info .submit input,
+.blog-head h2:after,
+.about-head h2:before,
+.about-head h2:after,
+.service-head h2:before,
+.service-head h2:after,
+.aside .nav-toggler span,
+.aside .nav-toggler span::before,
+.aside .nav-toggler span::after,
+.portfolio-head h2:before,
+.portfolio-head h2:after,
+.contact-head h2:before,
+.contact-head h2:after
+    {
+        background-color: #2196f3;;
+    }

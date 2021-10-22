@@ -1,0 +1,4 @@
+.aside .logo a::before
+    {
+        border-top:4px solid #ec1839;
+    }
